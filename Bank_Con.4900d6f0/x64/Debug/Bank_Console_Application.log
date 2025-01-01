@@ -1,0 +1,65 @@
+﻿  main.cpp
+C:\Users\HP\Desktop\Bank_Console_Application\clsString.h(19,21): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsString.h(95,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsString.h(114,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsString.h(132,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsString.h(195,14): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsString.h(198,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsString.h(213,27): warning C4267: '+=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsString.h(214,30): warning C4267: '+=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsString.h(229,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsString.h(252,23): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsBankClient.h(72,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsBankClient.h(73,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsBankClient.h(74,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsBankClient.h(187,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsTotalBalancesScreen.h(30,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsTotalBalancesScreen.h(32,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsTransactionsScreen.h(55,60): warning C4244: 'return': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsManageUsersScreen.h(54,60): warning C4244: 'return': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsFindCurrencyScreen.h(19,56): warning C4244: 'return': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsCurrencyExchangeScreen.h(24,56): warning C4244: 'return': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\HP\Desktop\Bank_Console_Application\clsMainScreen.h(87,56): warning C4244: 'return': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Bank_Console_Application.vcxproj -> C:\Users\HP\Desktop\Bank_Console_Application\x64\Debug\Bank_Console_Application.exe
