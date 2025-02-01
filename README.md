@@ -43,5 +43,5 @@
   ```bash<br>
   <b>git clone https://github.com/Ali-Haj-Yousef/Bank-Console-Application.git</b><br>
   <h2>Note</h2>
-    <p>The value of both username and password corresponding to the admin is "admin". </p>
+    <p>The value of both <b>username</b> and <b>password</b> corresponding to the admin is <b>"admin"</b>. </p>
 </p>
