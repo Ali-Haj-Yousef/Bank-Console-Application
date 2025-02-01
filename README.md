@@ -41,5 +41,7 @@
 <p>To obtain a local copy of the project, clone the repository using the following command in your terminal:</p>
 <p>
   ```bash<br>
-  <b>git clone https://github.com/Ali-Haj-Yousef/Bank-Console-Application.git</b>
+  <b>git clone https://github.com/Ali-Haj-Yousef/Bank-Console-Application.git</b><br>
+  <h2>Note</h2>
+    <p>The value of both username and password corresponding to the admin is "admin". </p>
 </p>
